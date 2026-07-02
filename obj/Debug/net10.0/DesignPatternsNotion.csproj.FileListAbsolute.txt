@@ -1,0 +1,14 @@
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\bin\Debug\net10.0\DesignPatternsNotion.exe
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\bin\Debug\net10.0\DesignPatternsNotion.deps.json
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\bin\Debug\net10.0\DesignPatternsNotion.runtimeconfig.json
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\bin\Debug\net10.0\DesignPatternsNotion.dll
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\bin\Debug\net10.0\DesignPatternsNotion.pdb
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.AssemblyInfoInputs.cache
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.AssemblyInfo.cs
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.csproj.CoreCompileInputs.cache
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.dll
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\refint\DesignPatternsNotion.dll
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.pdb
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.genruntimeconfig.cache
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\ref\DesignPatternsNotion.dll
