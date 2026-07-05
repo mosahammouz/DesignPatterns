@@ -1,0 +1,1 @@
+**applying 4 patterns (Singleton, Factory, Observer, Strategy), each one with its example, and I got every point from every pattern**
