@@ -12,3 +12,21 @@ car1.DeliverVehicle();
 Console.WriteLine("\nCreating a motorcycle:");
 VehicleFactory motorcycleFactory = new MotorCycleFactory();
 motorcycleFactory.DeliverVehicle();
+
+//Observer pattern (behavioral)
+WeatherStation weatherStation = new WeatherStation();
+
+IObserver bbcNews = new NewsAgency("BBC News");
+IObserver cnnNews = new NewsAgency("CNN News");
+
+weatherStation.RegisterObserver(bbcNews);
+weatherStation.RegisterObserver(cnnNews);
+  
+Console.WriteLine("Weather station is sending first update:");
+weatherStation.SetWeatherUpdate("Sunny day with temperature of 25°C");
+    
+
+weatherStation.RemoveObserver(cnnNews);
+
+Console.WriteLine("\nWeather station is sending second update:");
+weatherStation.SetWeatherUpdate("Cloudy with a chance of rain");
