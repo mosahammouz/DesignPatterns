@@ -12,3 +12,4 @@ C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\refin
 C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.pdb
 C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.genruntimeconfig.cache
 C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\ref\DesignPatternsNotion.dll
+C:\Users\MousaHammouz\RiderProjects\DesignPatternsNotion\obj\Debug\net10.0\DesignPatternsNotion.sourcelink.json
