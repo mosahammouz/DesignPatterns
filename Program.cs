@@ -30,3 +30,15 @@ weatherStation.RemoveObserver(cnnNews);
 
 Console.WriteLine("\nWeather station is sending second update:");
 weatherStation.SetWeatherUpdate("Cloudy with a chance of rain");
+//strategy pattern 
+ShoppingCart cart = new ShoppingCart();
+cart.AddItem(100);
+cart.AddItem(50);
+cart.AddItem(75);
+    
+
+Console.WriteLine("Customer 1 pays with credit card:");
+cart.Pay(new CreditCardStrategy("John Doe", "1234567890123456", "123", "12/25"));
+    
+Console.WriteLine("\nCustomer 2 pays with PayPal:");
+cart.Pay(new PayPalStrategy("john.doe@example.com", "password"));
